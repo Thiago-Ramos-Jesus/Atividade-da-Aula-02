@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+.div_a{
+    background-color: rgb(122, 67, 122);
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+.div_b{
+    background-color: pink;
+    width: 250px;
+    border: groove red 20px;
+}
+.div_c{
+    background-color:#03bb85;
+    height: 88%;
+    width: 30%;
+}
